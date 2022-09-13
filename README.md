@@ -1,4 +1,4 @@
-# AppTokenUsageExamples
+# App Token Authorization Usage Examples
 Examples of signing requests using Sumsub authorization with App Tokens
 
 https://developers.sumsub.com/api-reference/#making-a-request
