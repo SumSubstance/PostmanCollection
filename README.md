@@ -1,7 +1,7 @@
 # App Token Authorization Usage Examples
 Examples of signing requests using Sumsub authorization with App Tokens
 
-https://developers.sumsub.com/api-reference/#making-a-request
+https://docs.sumsub.com/reference/authentication
 
 Please make sure to put your App Token and Secret Key at collection variables.
 
